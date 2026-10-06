@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.png" width="128"></p>
+<p><img src="assets/icon.png" width="128"></p>
 
 ### _**LoongArch64**_ Plugin for [Binary Ninja](https://binary.ninja/) that work's on Linux
 
