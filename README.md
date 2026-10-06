@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128"></p>
+
 ### _**LoongArch64**_ Plugin for [Binary Ninja](https://binary.ninja/) that work's on Linux
 
 You might see some issues in the log window if it says ABI is outdated you can update it your own with the .sh scripts, all in my tools folder on github.
@@ -38,3 +40,8 @@ For new **features** ore **bugs** open a [issue](https://github.com/noah0x1/Loon
 3. Not Documented but soon!
 4. Not Documented but soon!
 
+<p align="center">
+  <img src="assets/banner.png" alt="LoongArch64 for Binary Ninja" width="100%">
+</p>
+
+<sub>Not affiliated with or endorsed by Vector 35 or Loongson. Binary Ninja is a trademark of Vector 35 Inc.; LoongArch is a trademark of Loongson Technology.</sub>
