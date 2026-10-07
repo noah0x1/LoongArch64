@@ -45,3 +45,6 @@ For new **features** ore **bugs** open a [issue](https://github.com/noah0x1/Loon
 </p>
 
 <sub>Not affiliated with or endorsed by Vector 35 or Loongson. Binary Ninja is a trademark of Vector 35 Inc.; LoongArch is a trademark of Loongson Technology.</sub>
+
+
+Opcode encodings were derived from GNU binutils (opcodes/loongarch-opc.c) and the LoongArch Reference Manual.
