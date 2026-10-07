@@ -4,7 +4,7 @@
 
 You might see some issues in the log window if it says ABI is outdated you can update it on your own with the .sh scripts, all in my tools folder on github.
 
-For new **features** ore **bugs** open a [issue](https://github.com/noah0x1/LoongArch64-Binary-Ninja-Binja-Plug-in/issues).
+For new **features** ore **bugs** open a [issue](https://github.com/noah0x1/LoongArch64/issues).
 
 ### Random questions no one asked me:
 
